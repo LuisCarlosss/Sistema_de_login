@@ -18,9 +18,6 @@ cursor = conexão.cursor()
 
 
 
-#Sistema de banco de dados 
-
-
 #Sistema de login
 def cadastro_usuario():
 
